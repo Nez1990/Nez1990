@@ -1,16 +1,19 @@
 ## Hi there 👋
+# I AM NEZIH
+I am Python **backend** *developer* ....
+## Ma skills
+- Python
+- AWS
+- SQL
+- HTML
+# My Pets
+1. Grey
+2. Masik
+3. Kadet
+This is my linkedin [Link] (htttps://.....)
 
-<!--
-**Nez1990/Nez1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Cat](https://)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
