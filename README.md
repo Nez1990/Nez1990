@@ -1,15 +1,21 @@
 ## Hi there 👋
 # I AM NEZIH
-I am Python **backend** *developer* ....
+I am a future**backend** *developer* that just started his training at DCI. Before that I also had taught myself basic Java knowledge trough tutorials on several websites which sparked my interest in Python. 
 ## Ma skills
-- Python
-- AWS
-- SQL
-- HTML
-# My Pets
-1. Grey
-2. Masik
-3. Kadet
+- Python **()**
+- Java **(Advanced Knowledge)**
+- SQL **(Advanced Knowledge)**
+- HTML, CSS, JavScript **(Basic Knowledge)**
+
+##Qualifications
+
+## Language skills
+German **(Natively)**
+Turkish **(Natively)**
+English **(Very Good - B2)**
+French **(Basic Knowledge - B1)**
+
+
 This is my linkedin [Link] (htttps://.....)
 
 ![Cat](https://)
